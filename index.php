@@ -33,22 +33,26 @@
     <![endif]-->
 
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-63340541-6', 'auto');
-  ga('send', 'pageview');
-
-</script>
 
 <meta name="google-site-verification" content="ETOigryOdYgpfUXcFJurgUAX4Q8ZhCWSRhg7pGQHurM" />
 
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-92572625-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+
+
   <div itemscope itemtype="https://schema.org/HomeAndConstructionBusiness">
     <!-- Navigation
         ==========================================-->
@@ -306,19 +310,19 @@
               <div id="testimonial" class="owl-carousel owl-theme">
                 <div class="item">
                   <p itemprop="review">"Great mulch selection and very fast service."</p>
-                  <p>- Davey Jones, Davis County, UT</p>
+                  <p>- John Allred, American Fork, UT</p>
                 </div>
                 <div class="item">
                   <p itemprop="review">"Great service at a great price!"</p>
-                  <p>- Jenny Young, Salt Lake County, UT</p>
+                  <p>- Jenny Young, Salt Lake City, UT</p>
                 </div>
                 <div class="item">
                   <p itemprop="review">"My yard looks better than it ever has! Thanks guys!"</p>
-                  <p>- Gavin Emarosa, Utah County, UT</p>
+                  <p>- Amy Roberts, Provo, UT</p>
                 </div>
                 <div class="item">
-                  <p itemprop="review">"They showed up on time and did an amazing job. Rocky Peak has gone above and beyond when caring for my yard."</p>
-                  <p>- Emery Matt, Davis County, UT</p>
+                  <p itemprop="review">"They showed up on time and did an amazing job. Pearl Property is the best property mainenance company in Utah."</p>
+                  <p>- Tom Harper, Highland, UT</p>
                 </div>
               </div>
             </div>
@@ -333,6 +337,15 @@
           <h2>Contact Us</h2>
           <hr>
           <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p> -->
+        </div>
+        <div class="col-md-4">
+            <h3>Contact</h3>
+            <hr>
+          <div class="contact-item">
+              <p itemprop="telephone">Phone: <a href="tel: +1-801-980-1016">(801)980-1016</a></p>
+              <p itemprop="telephone">Cell: <a href="tel: +1-801-735-1828">(801)735-1828</a></p>
+              <p itemprop="email">Email: <a href="mailto: whit@pearl-property.net">whit@pearl-property.net</a></p>
+          </div>
         </div>
         <div class="col-md-10 col-md-offset-1 contact-info">
           <div class="col-md-4">
@@ -350,15 +363,7 @@
               <!-- <p>Sunday: CLOSED</p> -->
             </div>
           </div>
-          <div class="col-md-4">
-            <h3>Contact</h3>
-            <hr>
-            <div class="contact-item">
-              <p itemprop="telephone">Phone: <a href="tel: +1-801-980-1016">(801)980-1016</a></p>
-              <p itemprop="telephone">Cell: <a href="tel: +1-801-735-1828">(801)735-1828</a></p>
-              <p itemprop="email">Email: <a href="mailto: whit@pearl-property.net">whit@pearl-property.net</a></p>
-            </div>
-          </div>
+          
         </div>
         <div class="col-md-8 col-md-offset-2">
           <h3>Leave us a message</h3>
